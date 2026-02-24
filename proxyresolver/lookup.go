@@ -1,6 +1,6 @@
 package proxyresolver
 
-import "github.com/rymdport/portal/internal/apis"
+import "github.com/rmitchellscott/portal/internal/apis"
 
 const lookupCallName = interfaceName + ".Lookup"
 

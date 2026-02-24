@@ -2,9 +2,9 @@ package background
 
 import (
 	"github.com/godbus/dbus/v5"
-	"github.com/rymdport/portal/internal/apis"
-	"github.com/rymdport/portal/internal/convert"
-	"github.com/rymdport/portal/internal/request"
+	"github.com/rmitchellscott/portal/internal/apis"
+	"github.com/rmitchellscott/portal/internal/convert"
+	"github.com/rmitchellscott/portal/internal/request"
 )
 
 const requestCallName = interfaceName + ".RequestBackground"

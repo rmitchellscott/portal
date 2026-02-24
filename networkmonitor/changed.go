@@ -1,7 +1,7 @@
 package networkmonitor
 
 import (
-	"github.com/rymdport/portal/internal/apis"
+	"github.com/rmitchellscott/portal/internal/apis"
 )
 
 // OnSignalChanged calls the passed function when the network configuration changes.

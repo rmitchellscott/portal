@@ -1,6 +1,6 @@
 package appearance
 
-import "github.com/rymdport/portal/settings"
+import "github.com/rmitchellscott/portal/settings"
 
 // Contrast indicates the system’s preferred contrast level.
 type Contrast uint8

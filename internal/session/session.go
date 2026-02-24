@@ -8,9 +8,9 @@ import (
 	"strings"
 
 	"github.com/godbus/dbus/v5"
-	"github.com/rymdport/portal"
-	"github.com/rymdport/portal/internal/apis"
-	"github.com/rymdport/portal/internal/convert"
+	"github.com/rmitchellscott/portal"
+	"github.com/rmitchellscott/portal/internal/apis"
+	"github.com/rmitchellscott/portal/internal/convert"
 )
 
 const (
